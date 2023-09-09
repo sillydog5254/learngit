@@ -6,4 +6,4 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 I don't like my life.
-This is master.
+This is second_branch.
